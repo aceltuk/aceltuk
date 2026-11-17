@@ -65,7 +65,7 @@ Across the estate I upgraded **19 repositories to .NET 10 LTS and C# 14** (movin
 
 **Quality & security:** TDD and BDD (xUnit, NUnit, MSTest, SpecFlow, Playwright), Testcontainers, WireMock, SonarQube, CodeQL, Checkov, OWASP Dependency-Check
 
-**AI-assisted engineering:** Claude Code day to day, with per-repository CLAUDE.md context files and custom skills
+**AI-assisted engineering:** Claude Code in my own workflow: code and data investigation, scaffolding, help with large pull requests, and spike work (for example, investigating whether reliable migration identifiers existed in Defra's registration and packaging data)
 
 ---
 
