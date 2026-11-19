@@ -1,5 +1,10 @@
 # Hi, I'm Mark Jones
 
+<p>
+  <img src="badges/azure-fundamentals.png" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" height="100">
+  <a href="https://www.credly.com/badges/e22dfb80-a3e5-4e2c-8afb-f769ccd27231/public_url"><img src="badges/terraform-associate-004.png" alt="HashiCorp Certified: Terraform Associate (004)" height="100"></a>
+</p>
+
 **Azure Cloud & DevOps Engineer and Senior .NET Developer**, a UK contractor based in North Wales, working remotely across the UK.
 
 I build and run secure Azure platforms, and the .NET services that run on them. Over 20 years in C#, .NET and SQL Server, most recently on UK public sector programmes (Defra and the Crown Prosecution Service).
