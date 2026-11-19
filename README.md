@@ -1,14 +1,15 @@
-# Hi, I'm Mark Jones 👋
+# Hi, I'm Mark Jones
 
 **Azure Cloud & DevOps Engineer and Senior .NET Developer**, a UK contractor based in North Wales, working remotely across the UK.
 
 I build and run secure Azure platforms, and the .NET services that run on them. Over 20 years in C#, .NET and SQL Server, most recently on UK public sector programmes (Defra and the Crown Prosecution Service).
 
-- 🔐 **SC cleared** (transferable, valid to Oct 2029) and **NPPV3** (to 2032)
-- 🏆 **DevOps Excellence Awards 2024: Best Public Sector Project** (CPS Casework App)
-- 📜 **AZ-400** exam passed Nov 2026 · **AZ-104** booked · previously DevOps Engineer Expert and Azure Developer Associate (2025–26)
+- **SC cleared** (transferable, valid to Oct 2029) and **NPPV3** (to 2032)
+- **DevOps Excellence Awards 2024: Best Public Sector Project** (CPS Casework App)
+- **HashiCorp Certified: Terraform Associate (004)**, Nov 2026 ([verify](https://www.credly.com/badges/e22dfb80-a3e5-4e2c-8afb-f769ccd27231/public_url))
+- **AZ-400** exam passed Nov 2026 · **AZ-104** booked · previously DevOps Engineer Expert and Azure Developer Associate (2025–26)
 
-## 🔎 Where to see my work
+## Where to see my work
 
 Much of my client work is in private repositories (for example Azure DevOps-hosted test suites). The links below are the **public portions** of programmes I've worked on, so you'll see my commits alongside those of my colleagues.
 
@@ -55,7 +56,7 @@ Across the estate I upgraded **19 repositories to .NET 10 LTS and C# 14** (movin
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 **Cloud & platform:** Azure (App Service, Functions, Durable Functions, Service Bus, Cosmos DB, Azure SQL, Key Vault, Application Gateway, Private Link, Entra ID, API Management, Logic Apps, Monitor / Log Analytics / Application Insights), plus AWS (Lambda, SNS/SQS, IAM)
 
@@ -69,11 +70,11 @@ Across the estate I upgraded **19 repositories to .NET 10 LTS and C# 14** (movin
 
 ---
 
-## 💼 Earlier highlights
+## Earlier highlights
 
 - **Cheshire West and Chester / Cheshire East councils (2012–2021):** integration services and messaging behind online citizen services (GovPay, Dynamics CRM/365, SharePoint, Lagan, Northgate, Bartec). Migrated them to Azure, and built an API Management gateway between the Firmstep forms platform and around 100 Logic Apps. KANA Award 2014 for an innovative solution.
 - **Shelby Finance (2021–2022):** .NET microservices on AWS for a regulated consumer lender, including a Payments API with Worldpay integration.
 
 ---
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mark-jones-613a35248)
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/mark-jones-613a35248)
